@@ -1,0 +1,1 @@
+A collection of Arduino-Sketches I made over the years. Each idea is shortly explained. No guarantee is given for the correctnes of the given sketches. For questions don't hesitate to ask. I will gladly provide more information for a project. Have fun!
